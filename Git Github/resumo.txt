@@ -1,0 +1,10 @@
+Link para baixar o git: https://git-scm.com/download/win
+Tem alguns comandos diferentes para windows e linux.
+Dir - lista os arquivos.
+Mkdir - cria pasta.
+Cd - navega entre as pastas.
+Git Init - é um comando único que você usa durante a configuração inicial de um novo repositório.
+Git Add - O comando git add adiciona uma alteração no diretório de trabalho à área de preparação.
+Ele informa ao Git que você deseja incluir atualizações em um arquivo específico no próximo commit.
+Git commit -m "" - git commit é usado para criar um instantâneo das alterações preparadas em um cronograma de um histórico de projetos do Git.
+Git push - empurra o conteúdo do repositório local para um repositório remoto.
